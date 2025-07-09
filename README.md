@@ -32,6 +32,14 @@ To access the system, use the following employee account:
 
 ## 
 
+---
+
+### 📸 Screenshots:
+
+
+![HOme Page](project_with_javafx/project_with_javafx/Images/1.jpg)
+
+
 
 ---
 
