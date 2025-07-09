@@ -1,7 +1,7 @@
 # train-ticket-booking
 A simple Railway Ticket Reservation System built using Java 
 
-# Railway Ticket Reservation System 🚆
+#                            Railway Ticket Reservation System 🚆
 
 This is a simple **Railway Ticket Reservation System** built using **Java** and **JavaFX**.  
 The project allows users to book, cancel, and manage train tickets through a graphical interface.
@@ -34,16 +34,24 @@ To access the system, use the following employee account:
 
 ---
 
-### 📸 Screenshots:
+###📸 Screenshots:
 
 
-![HOme Page](project_with_javafx/project_with_javafx/Images/1.jpg)
+![Home Page](project_with_javafx/Images/1.jpg)
+
+---
+
+![Home Page](project_with_javafx/Images/2.jpg)
+
+---
+
+![Home Page](project_with_javafx/Images/6.jpg)
 
 
 
 ---
 
-## ⚙️ Setup Instructions && 🛠 Requirements
+##⚙️ Setup Instructions && 🛠 Requirements
 
 1. **Install JavaFX**  
    Download the JavaFX SDK from the official website:  
